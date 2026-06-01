@@ -3,6 +3,8 @@ Atividade avaliativa 2 de Desenvolvimento Web Módulo 3
 
 <img width="1338" height="633" alt="image" src="https://github.com/user-attachments/assets/b7d8b984-6d4e-4f7b-bf4d-02298f00e3ff" />
 
+<img width="1350" height="629" alt="image" src="https://github.com/user-attachments/assets/6656bc18-8b85-4513-a376-76646c63e8e8" />
+
 ## Resumo
 App em React.js + Next.js que consulta dados da API pública "The One API":
 
