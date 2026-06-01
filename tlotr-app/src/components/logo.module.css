@@ -1,0 +1,12 @@
+.logoContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px; /* Espaçamento padrão */
+  transition: all 0.3s ease-in-out;
+}
+
+.logoContainer *:hover{
+  transform: scale(1.1);
+  transition: all 0.3s ease-in-out;
+}
