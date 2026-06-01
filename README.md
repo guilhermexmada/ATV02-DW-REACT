@@ -12,6 +12,8 @@ App em React.js + Next.js que consulta dados da API pública "The One API":
 - Página com detalhes de raça, gênero e reino/origem para cada personagem
 
 ## Iniciando
+Clone o repositório, instale as dependências e inicie o projeto. Para permitir o consumo da API, cadastre-se no link das referências e obtenha sua chave, colocando-a numa variável de ambiente.
+
 ```
 # instale as dependências
 npm install
